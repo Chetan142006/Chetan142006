@@ -97,8 +97,8 @@ Stack  →  AWS S3 · CloudFront · Lambda · API Gateway · Route 53 · HTML/CS
 |:---|:---|:---|
 | OCI Generative AI Professional | Oracle | Cloud · AI |
 | Data Analytics Virtual Experience | Deloitte | Data |
-| Python & SQL | NPTEL — IIT Madras | Programming |
-| Python (Gold Badge) | HackerRank | Programming |
+| Python | NPTEL — IIT Madras | Programming |
+| Java (Gold Badge) & Python (Bronze Badge) | HackerRank | Programming |
 
 ---
 
