@@ -54,3 +54,80 @@ B.Tech in AI & Data Science · Lakireddy Bali Reddy College of Engineering · Op
 ### 📸 [OSPI Corner Calculator (IIT Guwahati Research Project)](https://github.com/Chetan142006/OSPI)
 
 A computational software application developed to evaluate photogrammetric quality by implementing stereo, transition, and convergent imaging zone classification using camera geometry and image overlap analysis. Includes pixel-wise visibility algorithms and automated CSV outputs.
+
+---
+
+### 🎵 [VibeCheck — Emotion-Based Music Recommendation](https://github.com/Chetan142006/VibeCheck-Emotion-Music-Player)
+
+A real-time facial emotion recognition system using a custom-trained Convolutional Neural Network (CNN). Classifies emotions (happy, sad, angry, neutral) via webcam feed and generates personalized playlists integrated with user location and time context.
+
+---
+
+### 🌐 [Personal Blog Platform](https://github.com/Chetan142006/Blogspot)
+
+Designed and developed a fully responsive, interactive blog platform featuring reusable UI components and client-side functionality for optimized user navigation across desktop and mobile devices.
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Domain |
+|:---|:---|:---|
+| Oracle Cloud Infrastructure 2025 GenAI Professional | Oracle | Cloud · AI |
+| Data Analytics Job Simulation | Deloitte | Data Analysis |
+| The Joy Of Computing Using Python | NPTEL | Programming |
+| Java Basic & Python Basic | HackerRank | Programming |
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan142006&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" />
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Chetan142006">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/chetan142006">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/chetansai1408">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/chetan142006">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📬 Let's Talk
+
+If you're looking for someone to build AI systems, analyze complex data, or develop practical software — or you just want to collaborate on something interesting:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chetan1408">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:chetan142006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mr_chetan_1408">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>"I don't just study AI — I deploy it."</i></p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
