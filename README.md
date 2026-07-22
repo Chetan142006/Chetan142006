@@ -63,12 +63,6 @@ A real-time facial emotion recognition system using a custom-trained Convolution
 
 ---
 
-### 🌐 [Personal Blog Platform](https://github.com/Chetan142006/Blogspot)
-
-Designed and developed a fully responsive, interactive blog platform featuring reusable UI components and client-side functionality for optimized user navigation across desktop and mobile devices.
-
----
-
 ## 🏅 Certifications
 
 | Certification | Issuer | Domain |
